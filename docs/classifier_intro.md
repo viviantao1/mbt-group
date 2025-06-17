@@ -13,6 +13,6 @@ labelled training data. From here, the classifier can then be trained according 
 that can control how the data is used in the training process. The model can then be saved to a name of your choosing. Some already 
 created models are located in the models section of this repo.
 
-## classifer.ipynb
+## classify.ipynb
 This file imports a classifier model and uses it to predict whether particles are alive or dead. A plot is created with the living
 trajectories in blue and the dead trajectories in red.
